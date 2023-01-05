@@ -1,0 +1,102 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"null",
+      "backup_ads_natives":"db4d5e8718b97d78",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"null",
+      "open_ads_admob":"null",
+      "open_ads_alien":"null",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"107355779",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+{
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Afif Muhammad Taj",
+      "image": "file:///android_asset/Afif_Muhammad_Taj/tray.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Afif Muhammad Taj",
+      "title": "Afif Mohammed Taju  Surah AlKahf",
+      "image": "file:///android_asset/Afif_Muhammad_Taj/tray.jpg",
+      "link_mp3": "Afif_Muhammad_Taj/Afif_Mohammed_Taju__Surah_AlKahf.mp3",
+      "duration": "1557",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 2,
+      "name_category": "Afif Muhammad Taj",
+      "title": "shek Afif muhnadaa surtul yasin",
+      "image": "file:///android_asset/Afif_Muhammad_Taj/tray.jpg",
+      "link_mp3": "Afif_Muhammad_Taj/shek_Afif_muhnadaa_surtul_yasin.mp3",
+      "duration": "459",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 3,
+      "name_category": "Afif Muhammad Taj",
+      "title": "الشيخ أفيف محمد تاج سورة مريم Sheikh Afif mohammed taj SURAH MARYAM",
+      "image": "file:///android_asset/Afif_Muhammad_Taj/tray.jpg",
+      "link_mp3": "Afif_Muhammad_Taj/الشيخ_أفيف_محمد_تاج_سورة_مريم_Sheikh_Afif_mohammed_taj_SURAH_MARYAM.mp3",
+      "duration": "382",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 4,
+      "name_category": "Afif Muhammad Taj",
+      "title": "الشيخ عفيف محمد تاج سورة لقمان  Sheikh Afif Mohammed Taj  Surah Luqman",
+      "image": "file:///android_asset/Afif_Muhammad_Taj/tray.jpg",
+      "link_mp3": "Afif_Muhammad_Taj/الشيخ_عفيف_محمد_تاج_سورة_لقمان__Sheikh_Afif_Mohammed_Taj__Surah_Luqman.mp3",
+      "duration": "491",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 5,
+      "name_category": "Afif Muhammad Taj",
+      "title": "خواتيم سورة إبراهيم  الشيخ  عفيف محمد تاج",
+      "image": "file:///android_asset/Afif_Muhammad_Taj/tray.jpg",
+      "link_mp3": "Afif_Muhammad_Taj/خواتيم_سورة_إبراهيم__الشيخ__عفيف_محمد_تاج.mp3",
+      "duration": "313",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 6,
+      "name_category": "Afif Muhammad Taj",
+      "title": "روائع الفجر  ماتيسر من الفرقان  الشيخ عفيف محمدتاج أحمد",
+      "image": "file:///android_asset/Afif_Muhammad_Taj/tray.jpg",
+      "link_mp3": "Afif_Muhammad_Taj/روائع_الفجر__ماتيسر_من_الفرقان__الشيخ_عفيف_محمدتاج_أحمد.mp3",
+      "duration": "305",
+      "lyrics": "Tidak Ada Lirik"
+    },
+    {
+      "id": 7,
+      "name_category": "Afif Muhammad Taj",
+      "title": "روائع الفجر  ماتيسر من يوسف  الشيخ عفيف محمدتاج أحمد  Sh Afif MohTaj  Surat Youssef",
+      "image": "file:///android_asset/Afif_Muhammad_Taj/tray.jpg",
+      "link_mp3": "Afif_Muhammad_Taj/روائع_الفجر__ماتيسر_من_يوسف__الشيخ_عفيف_محمدتاج_أحمد__Sh_Afif_MohTaj__Surat_Youssef.mp3",
+      "duration": "459",
+      "lyrics": "Tidak Ada Lirik"
+    }
+  ]
+}
